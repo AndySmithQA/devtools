@@ -4,7 +4,7 @@ import Module2Console from './pages/Module2Console';
 import Module3Network from './pages/Module3Network';
 import Module4React from './pages/Module4React';
 import Module5Integration from './pages/Module5Integration';
-import logoImage from './images/logo.png';
+
 
 function App() {
   return (
